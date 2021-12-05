@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"marca": "TUBO ALCANTARILLADO 200mm x 6m",
+		"imagen": "img/tubo.jpg",
+		"precio": "25.00",
+		"detalles": ["Material: PVC", "Diámetro: 10 cm", "Garantía: 1 año"]
+	},
+	{
+		"id": 2,
+		"marca": "CEMENTOS PACASMAYO",
+		"imagen": "img/cemento.jpg",
+		"precio": "24.60",
+		"detalles": ["Peso: 42.5 kg", "Uso: Construccion en general", "Color: Mostaza"]
+	},
+	{
+		"id": 3,
+		"marca": "ALAMBRE DE ACERO RECOCIDO",
+		"imagen": "img/alambre.jpg",
+		"precio": "86.00",
+		"detalles": ["Peso: 10 kg", "Diámetro: 4.20 mm", "Marca: Aceros Arequipa"]
+	},
+	{
+		"id": 4,
+		"marca": "CARRETILLA 5.5 P3",
+		"imagen": "img/CARRETILLA.jpg",
+		"precio": "279.90",
+		"detalles": ["Material: Metal", "Capacidad de carga: 580 kg", "Garantia: Defecto de Fábrica"]
+	},
+	{
+		"id": 5,
+		"marca": "VIGAS H",
+		"imagen": "img/VIGAS.jpg",
+		"precio": "46.90",
+		"detalles": ["Material: Acero", "Espesor: 3.53 mm", "Marca: Aceros Arequipa"]
+	},
+	{
+		"id": 6,
+		"marca": "BARRAS DE ACERO CORRUGADO 3/4 x 9m",
+		"imagen": "img/BARRAS.jpg",
+		"precio": "89.23",
+		"detalles": ["Peso: 2.235 kg", "Garantia: Defecto de Fábrica", "Uso: Construcciones de Concreto"]
+	},
+	
+	{
+		"id": 7,
+		"marca": "LADRILLO PANDERETA RAYA",
+		"imagen": "img/LADRILLO.jpg",
+		"precio": "0.71",
+		"detalles": ["Alto: 9 cm", "Ancho: 11 cm", "Largo: 22.5 cm"]
+	},
+	{
+		"id": 8,
+		"marca": "TUBO DESAGUE 4 X 3 m",
+		"imagen": "img/TUBOO.jpg",
+		"precio": "34.20",
+		"detalles": ["Diámetro: 10 cm", "Material: PVC", "Marca: Plástico"]
+	},
+	{
+		"id": 9,
+		"marca": "TUBO RECTO 8.2 X 3.8 X 298 cm",
+		"imagen": "img/TUBOR.jpg",
+		"precio": "65.90",
+		"detalles": ["Material: Acero", "Marca: Producto Exclusivo", "Uso: Intensivo"]
+	}
+]
